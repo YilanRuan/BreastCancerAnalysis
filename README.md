@@ -42,7 +42,3 @@ Future enhancements could include:
 - Incorporating more diverse biopsy datasets.
 - Expanding the analysis with more advanced deep learning models.
 - Real-world testing in clinical environments for validation.
-
----
-
-## 📁 Repository Structure
